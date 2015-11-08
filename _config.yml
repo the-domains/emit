@@ -1,0 +1,23 @@
+name: emit
+favicon: null
+layout_spectrum: 0.8635315895080566
+typography_spectrum: 0.3380073430016637
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2420987009536475
+  lightness: 0.8678872925229371
+  saturation: 0.12116588046774268
+  rhythmicContrast: 0.9640186908654869
+purpose: []
